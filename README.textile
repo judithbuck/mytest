@@ -1,0 +1,3 @@
+Yet another PCC decision scraper.
+
+The same code is checked into Tom Lynn's "pcc-decisions" scraper, but the datastore has a lot of residual crud in it which needs clearing, and I don't have access to do that. Hence a new scraper :-(
